@@ -81,4 +81,3 @@ Lombok is used to reduce boilerplate code (e.g., auto-generating `getter`/`sette
 - Requires IDE plugin for compilation (see [setup instructions](#setup)).
 
 
-# BankTransactionSystem
